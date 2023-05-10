@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gopi2923
+- 👋 Hi, I’m Gopi D
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently as Front End Developer
 - 💞️ I’m looking to collaborate on learning languages
 - 📫 How to reach me dgopidhikshan@gmail.com
 
