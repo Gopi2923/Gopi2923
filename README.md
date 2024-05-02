@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **linkedin.com/in/gopi-d-fsd**
+- 📫 How to reach me **linkedin.com/in/gopi-d-fsd** here is portfolio - gopidfortfolio.netlify.app/
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J9E5mgt3uA06N5PrcB2BDstRCor6312K/view?usp=sharing](https://drive.google.com/file/d/1J9E5mgt3uA06N5PrcB2BDstRCor6312K/view?usp=sharing)
 
