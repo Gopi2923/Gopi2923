@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gopidhikshan29" target="blank"><img src="https://img.shields.io/twitter/follow/gopidhikshan29?logo=twitter&style=for-the-badge" alt="gopidhikshan29" /></a> </p>
 
-- 🔭 I’m currently working on **Skillmine Technology**
+- 🔭 I’m currently working on **Ahana Systems and Solutions**
 
 - 💬 Ask me about **React**
 
