@@ -69,3 +69,19 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopi2923&theme=dark" alt="GitHub Streak" />
 </p>
+
+---
+
+### 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopi2923&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🐍 Watch my contributions get eaten by a snake  
+
+<p align="center">
+  <img src="https://github.com/gopi2923/gopi2923/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
