@@ -2,6 +2,10 @@
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&width=435&lines=Frontend+Developer;React+%7C+Redux+%7C+Next.js;Passionate+about+UI%2FUX;Always+Learning+%F0%9F%92%AB" alt="Typing Animation" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=gopi2923&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -16,16 +20,22 @@
 ### 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-ffffff?style=for-the-badge&logo=redux&logoColor=593D88" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/TailwindCSS-ffffff?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  </picture>
 </p>
 
 ---
@@ -76,15 +86,24 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gopi2923&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=gopi2923&show_icons=true&theme=dark&locale=en&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gopi2923&show_icons=true&theme=default&locale=en&layout=compact" alt="Top Languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopi2923&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gopi2923&show_icons=true&theme=dark&locale=en">
+    <img src="https://github-readme-stats.vercel.app/api?username=gopi2923&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopi2923&theme=dark" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=gopi2923&theme=dark">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gopi2923&theme=default" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ---
@@ -92,7 +111,10 @@
 ### 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopi2923&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gopi2923&theme=react-dark&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopi2923&theme=github-light&hide_border=true" alt="GitHub Activity Graph" />
+  </picture>
 </p>
 
 ---
@@ -100,5 +122,8 @@
 ### 🐍 Watch my contributions get eaten by a snake  
 
 <p align="center">
-  <img src="https://github.com/gopi2923/gopi2923/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gopi2923/gopi2923/blob/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://github.com/gopi2923/gopi2923/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
 </p>
