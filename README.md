@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gopi</h1>
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&width=435&lines=Frontend+Developer;React+%7C+Redux+%7C+Next.js;Passionate+about+UI%2FUX;Always+Learning+%F0%9F%92%AB" alt="Typing Animation" />
 </p>
